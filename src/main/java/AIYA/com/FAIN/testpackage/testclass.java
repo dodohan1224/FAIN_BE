@@ -3,7 +3,7 @@ package AIYA.com.FAIN.testpackage;
 public class testclass {
 
   public static void main(String[] args) {
-    System.out.println("hello");
+    System.out.println("bye bye");
   }
 
   public int i = 9;
